@@ -1,11 +1,8 @@
 # Greetings! I'm Engy Magdy 👋
 
-I am a student at the Faculty of Science, majoring in Mathematics. I am deeply passionate about everything related to math, especially my favorite branches: **Computer Science** and **Astronomical Mathematics**. 
+I'm a Faculty of Science student at Cairo University, with a strong passion for **mathematics**, **programming**, and **Computer Science**. I enjoy building projects in Python and solving problems with code.
 
-Having just finished my second year, one of my biggest dreams is to study abroad on a scholarship—and I am here to prove what I deserve!
-
-
-
+My goal is to pursue graduate studies abroad on a scholarship, and I'm currently learning databases and data structures to build stronger software projects.
 
 ## 🛠️ Skills & Technologies
 
@@ -16,8 +13,7 @@ Having just finished my second year, one of my biggest dreams is to study abroad
 
 ### 📐 Academic & Applied Mathematics
 - **Core Strengths (Excellent / A+):** Linear Algebra, Solid Geometry, Foundations of Mathematics
-- **Academic Background (Awaiting Results):** Abstract Algebra, Spatial Dynamics, Mathematical Analysis, Electricity & Electromagnetism
-
+  
 ### 🌐 Languages
 - **English:** Active Learner & Preparing for IELTS
 - **German:** Language Learner (Aiming for B2 Level)
