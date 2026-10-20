@@ -15,5 +15,8 @@ My goal is to pursue graduate studies abroad on a scholarship, and I'm currently
 - **Core Strengths (Excellent / A+):** Linear Algebra, Solid Geometry, Foundations of Mathematics
   
 ### 🌐 Languages
-- **English:** Active Learner & Preparing for IELTS
-- **German:** Language Learner (Aiming for B2 Level)
+- **English:** Active Learner(B2) & Preparing for IELTS
+- **German:** Language Learner(A2)
+
+## 📫 Connect with me
+www.linkedin.com/in/engy-magdy-919015445
